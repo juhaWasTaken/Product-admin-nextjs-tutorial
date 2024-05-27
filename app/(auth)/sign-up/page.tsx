@@ -25,7 +25,7 @@ const SignUp = () => {
 
                     <div className="relative z-20 mt-auto">
                         <p className="tex">
-                            &ldquo;This web application helps me to make my life easy.&ldquo;
+                            {"This web application helps me to make my life easy."}
                         </p>
                         <footer className="text-sm">Carlos Gallaga</footer>
                     </div>
